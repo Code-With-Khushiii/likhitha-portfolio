@@ -240,7 +240,7 @@ function App() {
               />
             </div>
             <h1 className="text-5xl md:text-6xl font-display text-black mb-6 tracking-wide">
-              HARPREET KAUR
+              Likhitha K
             </h1>
             <div className="text-lg text-brown mb-2 font-light tracking-widest">
             Technical Product Specialist | AI Product Ops | Product Analytics
