@@ -243,10 +243,10 @@ function App() {
               Likhitha K
             </h1>
             <div className="text-lg text-brown mb-2 font-light tracking-widest">
-            Technical Product Specialist | AI Product Ops | Product Analytics
+              Senior Data Analyst | SQL, Python | Power BI, Tableau | Azure, Snowflake
             </div>
             <div className="text-sm uppercase tracking-[0.3em] text-brown/80 mb-1">
-              FREMONT, CA · HYBRID/REMOTE READY
+             CHICAGO, U.S · HYBRID/REMOTE READY
             </div>
             <div className="w-24 h-0.5 bg-brown mx-auto mb-10"></div>
             <p className="text-lg text-brown mb-10 max-w-4xl mx-auto leading-relaxed font-light">
@@ -603,7 +603,7 @@ function App() {
                 href="tel:+19257655000"
                 className="text-white/80 font-light hover:text-white transition-colors"
               >
-                +1 (925) 765-5000
+                +1 323-998-3923
               </a>
             </div>
             <div className="flex items-center">
@@ -623,7 +623,7 @@ function App() {
                 href="mailto:likhithakammana95@gmail.com"
                 className="text-white/80 font-light hover:text-white transition-colors"
               >
-                likhithakammana95@gmail.com
+                 likhithakoyyada3939@gmail.com 
               </a>
             </div>
             {/* <div className="flex items-center">
